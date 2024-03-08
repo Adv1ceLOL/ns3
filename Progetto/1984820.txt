@@ -1,0 +1,9 @@
+TCP delivery of a file of 1166 MB starting at 0.27 s
+	Sender: Node 14	Receiver: Server 0
+TCP delivery of a file of 1882 MB starting at 3.42 s
+	Sender: Node 12	Receiver: Server 1
+TCP delivery of a file of 1700 MB starting at 3.33 s
+	Sender: Node 9	Receiver: Server 0
+Wi-Fi operating in Ad Hoc mode, stationary devices, no random walk
+UDP Echo application with Client 7 and Server 3
+	Size of packet: 1336 Bytes	Periodicity:20ms	MaxPackets: 250
